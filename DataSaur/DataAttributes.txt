@@ -1,0 +1,11 @@
+Desctiption of data columns
+
+HD_Open, HD_Low, HD_high, HD_close, HD_Adjclose : Home deport stock prices.
+LOW_Open, LOW _Low, LOW _high, LOW _close, LOW_Adj Close : LOWE’s deport stock prices.
+Construction Emplyees: Employment shutdown percentage by LOWE’s and Home Deport
+DPI($bn):  Real Disposable personal income.
+High, Low, stock price:   Stock Price values.
+House Starts: Median price at which houses start.
+New house sales: Price of a new house.
+S&P Sales_Price Index: Economic Factors impacting the top 500 companies
+% Population change: Change of population percent month to month.
